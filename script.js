@@ -218,7 +218,7 @@
         }
         function cloakName(string) {
             if ((string+"").trim().length === 0) {
-                document.title = "gn-math";
+                document.title = "doge";
                 return;
             }
             document.title = string;
